@@ -1,0 +1,27 @@
+kind = "web"
+previewPath = "/"
+title = "Roselyn Gifford"
+version = "1.0.0"
+id = "artifacts/roselyn-gifford"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 25874
+
+[services.development]
+run = "pnpm --filter @workspace/roselyn-gifford run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/roselyn-gifford", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/roselyn-gifford/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "25874"
+BASE_PATH = "/"
