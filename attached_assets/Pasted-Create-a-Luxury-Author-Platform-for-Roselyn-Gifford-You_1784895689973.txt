@@ -1,0 +1,573 @@
+Create a Luxury Author Platform for Roselyn Gifford
+
+You are a Creative Director, Brand Designer, Senior UX Designer, Art Director, Frontend Architect, and Full Stack Engineer.
+
+Your task is to design and build a premium, award-worthy author website that feels handcrafted by a boutique design agency.
+
+It must never resemble an AI-generated template.
+
+The final product should look like a website worthy of an internationally bestselling author.
+
+PRIMARY GOAL
+
+This is not just a website.
+
+It is Roselyn Gifford's digital home.
+
+Readers should immediately feel:
+
+"I've discovered an author whose books are going to change my life."
+
+The design should evoke emotion before visitors even read a single sentence.
+
+BRAND FOUNDATION
+
+Build the entire design around the Gifford Publishing logo.
+
+The logo contains:
+
+• warm cream tones
+
+• vintage books
+
+• blush roses
+
+• soft lighting
+
+• elegant typography
+
+This logo becomes the visual identity of the entire website.
+
+Every page should feel like it belongs to this logo.
+
+Design Style
+
+Think of combining:
+
+Luxury boutique hotel
+
+Independent bookstore
+
+Beautiful publishing house
+
+High-end magazine
+
+Fine art gallery
+
+Everything should feel:
+
+Elegant
+
+Editorial
+
+Sophisticated
+
+Warm
+
+Inviting
+
+Quiet
+
+Emotional
+
+Hopeful
+
+Timeless
+
+Refined
+
+Natural
+
+Nothing should feel corporate.
+
+Nothing should feel like a SaaS product.
+
+Nothing should look like a startup.
+
+Nothing should resemble an AI template.
+
+Visual Language
+
+Use lots of breathing room.
+
+Editorial layouts.
+
+Beautiful typography.
+
+Full-width photography.
+
+Bookstore-inspired sections.
+
+Cream paper backgrounds.
+
+Subtle watercolor textures.
+
+Gold foil accents.
+
+Hand-drawn botanical dividers.
+
+Rose illustrations.
+
+Soft shadows.
+
+Natural lighting.
+
+Beautiful spacing.
+
+Premium card layouts.
+
+Large imagery.
+
+Book covers treated like artwork.
+
+Colour Palette
+
+Extract inspiration directly from the uploaded logo.
+
+Primary Background
+
+Warm Ivory
+
+#FBF8F4
+
+Secondary Background
+
+Soft Cream
+
+#F7F1E9
+
+Card Background
+
+Pure White
+
+#FFFFFF
+
+Primary Text
+
+Rich Espresso
+
+#3C2A22
+
+Secondary Text
+
+Warm Taupe
+
+#72655A
+
+Primary Accent
+
+Dusty Rose
+
+#D89CA4
+
+Secondary Accent
+
+Sage Green
+
+#9CAA8C
+
+Luxury Accent
+
+Soft Antique Gold
+
+#C7A164
+
+Borders
+
+Warm Linen
+
+#E7DDD2
+
+Typography
+
+Headings
+
+Playfair Display
+
+or
+
+Cormorant Garamond
+
+Subheadings
+
+Lora
+
+Body
+
+Open Sans
+
+Buttons
+
+Montserrat
+
+The typography should resemble a luxury publishing company.
+
+Decorative Elements
+
+Create recurring design motifs.
+
+Rose illustrations.
+
+Pressed flowers.
+
+Botanical sketches.
+
+Book page textures.
+
+Paper grain.
+
+Watercolor edges.
+
+Gold separators.
+
+Elegant chapter dividers.
+
+Use these consistently across every page.
+
+Homepage
+
+The homepage should be cinematic.
+
+Not animated.
+
+Just beautifully composed.
+
+Hero
+
+Large editorial layout.
+
+One side:
+
+Roselyn Gifford
+
+Author
+
+Writer
+
+Storyteller
+
+Publisher
+
+Tagline:
+
+Books that inspire healing, resilience, hope and personal growth.
+
+Two elegant buttons.
+
+Explore the Collection
+
+Meet Roselyn
+
+The opposite side should feature the logo artistically integrated with books, flowers, and subtle textures—not oversized, but as a refined brand element.
+
+Books Experience
+
+This is the heart of the website.
+
+The books should feel like products in an Apple Store crossed with a luxury bookstore.
+
+Each cover should have:
+
+Hover lighting
+
+Soft shadow
+
+Book spine effect
+
+3D depth
+
+Book details
+
+Preview
+
+Reviews
+
+Formats
+
+Amazon buttons
+
+Kindle
+
+Paperback
+
+Hardcover
+
+Audiobook
+
+Related books
+
+Reading order
+
+Book club discussion guide
+
+Share book
+
+Wishlist
+
+About Page
+
+Use the watercolor portrait instead of a real photograph.
+
+Never ask the author to expose her identity.
+
+Build the page like a magazine feature.
+
+Timeline
+
+Writing philosophy
+
+Mission
+
+Vision
+
+Values
+
+Behind the books
+
+Writing process
+
+Publisher story
+
+Blog
+
+Magazine style.
+
+Beautiful featured article.
+
+Large cover images.
+
+Elegant typography.
+
+Estimated reading time.
+
+Categories.
+
+Related articles.
+
+Newsletter.
+
+Resources
+
+Downloadable journals.
+
+Reflection worksheets.
+
+Healing guides.
+
+Printable exercises.
+
+Discussion guides.
+
+Book club resources.
+
+Everything editable from the CMS.
+
+Events
+
+Speaking engagements.
+
+Book launches.
+
+Virtual sessions.
+
+Interviews.
+
+Podcast appearances.
+
+Gallery.
+
+Past events.
+
+Future events.
+
+RSVP.
+
+Media Kit
+
+Download:
+
+Author bio.
+
+Publisher logo.
+
+Book covers.
+
+Press photos.
+
+Media contact.
+
+Interview request form.
+
+Speaking request.
+
+Newsletter
+
+Design it like joining an exclusive readers' circle.
+
+Copy examples:
+
+"Join thousands of readers walking the journey toward healing."
+
+"Receive reflections, new releases and encouragement directly from Roselyn."
+
+Contact
+
+Speaking enquiries.
+
+Media.
+
+Book clubs.
+
+General messages.
+
+Publisher contact.
+
+Social media.
+
+Location (optional).
+
+CMS (No Coding Ever)
+
+Build a professional Admin Panel.
+
+Roselyn should never edit code.
+
+Everything must be editable visually.
+
+Books.
+
+Homepage.
+
+About.
+
+Blog.
+
+Resources.
+
+Events.
+
+Testimonials.
+
+Newsletter.
+
+FAQs.
+
+Menus.
+
+Footer.
+
+SEO.
+
+Images.
+
+Book covers.
+
+Amazon links.
+
+Downloads.
+
+Media Kit.
+
+Press.
+
+Socials.
+
+Privacy Policy.
+
+Analytics.
+
+Amazon KDP Integration
+
+Every book has editable buttons.
+
+Paperback.
+
+Kindle.
+
+Hardcover.
+
+Audiobook.
+
+Admin simply pastes the Amazon KDP links.
+
+No coding.
+
+SEO
+
+Automatic.
+
+Open Graph.
+
+Twitter cards.
+
+Structured data.
+
+Books schema.
+
+Author schema.
+
+Organization schema.
+
+Blog schema.
+
+Sitemap.
+
+Robots.
+
+Canonical URLs.
+
+Performance
+
+Lighthouse above 95.
+
+Fast loading.
+
+Image optimization.
+
+Accessibility.
+
+Responsive.
+
+Semantic HTML.
+
+Keyboard navigation.
+
+Motion
+
+Keep animations subtle and elegant.
+
+Fade.
+
+Parallax under 5%.
+
+Soft image hover.
+
+Gentle page transitions.
+
+No bouncing.
+
+No spinning.
+
+No flashy gradients.
+
+No glassmorphism.
+
+No neon.
+
+No AI-style floating blobs.
+
+Technical Stack
+
+Use:
+
+Next.js (App Router)
+TypeScript
+Tailwind CSS with a completely custom design system
+Framer Motion for minimal motion
+Supabase (database, authentication, storage)
+Supabase Storage for book covers and downloadable resources
+Rich text editor for blogs and pages
+Email service integration (Brevo or Resend)
+Search functionality
+Dynamic routes for books, blog posts, resources, and events
+Secure admin dashboard with role-based access

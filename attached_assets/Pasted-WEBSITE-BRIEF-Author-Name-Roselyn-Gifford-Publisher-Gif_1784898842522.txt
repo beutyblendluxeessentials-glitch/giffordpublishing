@@ -1,0 +1,140 @@
+WEBSITE BRIEF
+Author Name
+Roselyn Gifford
+Publisher
+Gifford Publishing
+Website Purpose
+To introduce readers to Roselyn Gifford, showcase her books, build trust with readers, grow an email list, and provide a central place where readers can discover books, learn about the author, and connect.
+Brand Personality
+The website should feel:
+
+Calm
+Elegant
+Honest
+Hopeful
+Reflective
+Minimalist
+Professional
+Warm
+Peaceful Avoid anything loud, flashy, or cluttered.
+Fonts
+Headings
+Lora
+Body
+Open Sans
+Buttons
+Montserrat
+Target Audience
+Adults/Young adults/teens looking for:
+
+healing
+hope
+self-worth
+emotional growth
+peace
+encouragement
+resilience
+recovery after heartbreak
+personal development
+About the Author
+(Your designer can copy this directly.)
+About Roselyn Gifford
+Roselyn Gifford is an author who writes books that explore healing, resilience, self-worth, and personal growth. Through heartfelt nonfiction and emotionally rich storytelling, she creates space for readers to pause, reflect, and rediscover hope in life's most difficult seasons.
+Her writing is grounded in honesty rather than perfection, offering encouragement to those navigating heartbreak, grief, anxiety, change, or the quiet work of becoming whole again.
+Roselyn believes that healing is rarely a straight path. Her books remind readers that even in moments of uncertainty, there is strength in continuing, grace in beginning again, and courage in choosing hope one day at a time.
+When she isn't writing, she is developing new resources designed to inspire growth, reflection, and meaningful change.
+Author Mission
+To write books that help people feel seen, understood, and encouraged through life's hardest seasons.
+Vision
+To become a trusted voice in emotional healing and personal growth, creating books that continue to comfort, inspire, and transform readers around the world.
+Author Values
+
+Compassion
+Hope
+Authenticity
+Healing
+Faith in growth
+Kindness
+Reflection
+Hero Statement
+Books that inspire healing, resilience, and hope through life's hardest seasons.
+Short Bio
+Roselyn Gifford writes books about healing, resilience, self-worth, and personal growth, encouraging readers to find hope even in life's most difficult moments.
+Call to Action
+Explore the Books
+Join the Newsletter
+Start Reading
+Books Section
+Include:
+Still Standing
+Still Healing
+Still Worthy
+Still Breathing
+Future Releases
+Each book should have:
+
+Cover
+Description
+Buy button
+Available formats
+Website Pages
+Home
+About
+Books
+Resources
+Blog
+Contact
+Privacy Policy
+Contact
+Email
+giffordroselyn@gmail.com
+Social Media
+Instagram
+TikTok
+Threads
+Facebook
+LinkedIn
+YouTube
+(Add links once available.)
+Images to Use
+Instead of an author photograph:
+
+Your custom watercolor/silhouette portrait based on your own photo.
+Your publisher logo in the header or footer.
+Book covers.
+Soft, calming imagery that complements the themes of healing and reflection.
+Features
+Ask your developer to include:
+
+Mobile-friendly design.
+Newsletter sign-up.
+Search bar.
+Blog.
+Book pages.
+Contact form.
+Social media links.
+SEO optimization.
+Fast loading.
+Accessibility features (readable fonts, good contrast, alt text for images). One thing I highly recommend Ask your developer to design the website around you as the author—not around your first book. Many first-time authors make the mistake of having a homepage that says: Still Standing That becomes limiting as you publish more books. Instead, the homepage should say something like: Roselyn Gifford Author of books that explore healing, resilience, self-worth, and personal growth. Then feature your books below. This way, as you publish Still Healing, Still Worthy, Still Breathing, and future titles, your website continues to grow with your career without needing a complete redesign.
+this what the authour sent me. the watercolor image is for the about section, she doesnt want to show her image and want to maitain her own privacy
+
+the descriptions
+
+STILL STANDING
+Finding Love, Worth and Healing in Your Hardest Seasons
+When life leaves you broken, it's easy to believe you'll never feel whole again. Still Standing is a compassionate guide for anyone navigating heartbreak, disappointment, loss, or emotional pain. Through heartfelt reflections, practical encouragement, and gentle wisdom, Roselyn Gifford reminds readers that healing is not about becoming who you were before, but discovering the strength to move forward with hope, courage, and self-worth. This book is an invitation to rise, one step at a time, even when the journey feels uncertain.
+STILL HEALING
+30 Days of Deep Healing, One Lesson at a Time
+Healing doesn't happen overnight, and it doesn't have to. Still Healing is a 30-day guided journey designed to help readers slow down, reflect, and reconnect with themselves after life's most difficult seasons. Each day offers thoughtful insights, practical exercises, affirmations, and gentle encouragement to support emotional healing and personal growth. Whether you're recovering from heartbreak, grief, disappointment, or simply learning to embrace yourself again, this book provides a steady companion for the journey ahead.
+STILL WORTHY
+Reclaiming Your Worth, One Truth at a Time
+Your worth has never depended on what you've been through, what you've lost, or what others have said about you. Still Worthy invites readers to let go of self-doubt, silence the inner critic, and rediscover the value that has always existed within them. Through honest reflections and empowering truths, Roselyn Gifford encourages readers to rebuild confidence, embrace their identity, and live from a place of self-respect, courage, and authenticity.
+STILL BREATHING
+Finding Peace, Calm and Presence After Life Has Knocked the Breath Out of You
+Some seasons leave us feeling overwhelmed, exhausted, and unsure how to keep going. Still Breathing is a gentle reminder that even in the middle of life's storms, peace is still possible. Through reflections on anxiety, emotional overwhelm, grief, and everyday struggles, this book encourages readers to slow down, breathe deeply, and find moments of calm amid the chaos. It is a compassionate companion for anyone seeking hope, presence, and the courage to take the next breath.
+Future Releases
+Roselyn Gifford continues to write books that explore healing, resilience, emotional well-being, and personal growth. New titles are currently in development, each created with the hope of encouraging readers through every stage of life's journey. Stay connected to be among the first to hear about upcoming releases, exclusive resources, and new projects.
+Optional "Books" page introduction
+You can also give your developer this introduction to place above your book collection:
+Books That Meet You Where You Are
+Every book by Roselyn Gifford is written with one purpose: to remind readers that they are not alone. Whether you're navigating heartbreak, rebuilding your confidence, searching for peace, or beginning your healing journey, these books offer honest reflections, practical encouragement, and hope for every season of life. Explore the collection and discover the book that speaks to where you are today.
